@@ -470,7 +470,7 @@ img#friends4:hover {
 }
 
 img#gab:hover {
-	content: url("gab.jpg");
+	content: url("gab.JPG");
 	transform: scale(1.05);
 }
 
@@ -765,4 +765,5 @@ h1#name {
 	border: none;
     height: 1px;
 	margin-top:5px;
+
 	margin-bottom:5px;
