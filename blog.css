@@ -510,7 +510,7 @@ img#janitorfish:hover {
 }
 
 img#sadboi:hover {
-	content: url("sadboi.jpg");
+	content: url("sadboi.JPG");
 	transform: scale(1.05);
 }
 
@@ -767,3 +767,4 @@ h1#name {
 	margin-top:5px;
 
 	margin-bottom:5px;
+
